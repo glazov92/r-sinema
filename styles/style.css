@@ -148,6 +148,11 @@ body {
     background-color: #40467C;
     border: 1px solid #40467C;
 }
+
+.open-air__button--violet:hover {
+    background-color: #51578C;
+}
+
 .open-air__button--empty {
     font-size: 17px;
     color: white;
